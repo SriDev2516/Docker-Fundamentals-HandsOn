@@ -1,0 +1,30 @@
+/Users/srini/Documents/Projects/DockerAndKubernetes/Docker-Fundamentals-HandsOn/LabI - DotnetAppDockerDemo/dotnetdemo/bin/Debug/net6.0/dotnetdemo
+/Users/srini/Documents/Projects/DockerAndKubernetes/Docker-Fundamentals-HandsOn/LabI - DotnetAppDockerDemo/dotnetdemo/bin/Debug/net6.0/dotnetdemo.deps.json
+/Users/srini/Documents/Projects/DockerAndKubernetes/Docker-Fundamentals-HandsOn/LabI - DotnetAppDockerDemo/dotnetdemo/bin/Debug/net6.0/dotnetdemo.runtimeconfig.json
+/Users/srini/Documents/Projects/DockerAndKubernetes/Docker-Fundamentals-HandsOn/LabI - DotnetAppDockerDemo/dotnetdemo/bin/Debug/net6.0/dotnetdemo.dll
+/Users/srini/Documents/Projects/DockerAndKubernetes/Docker-Fundamentals-HandsOn/LabI - DotnetAppDockerDemo/dotnetdemo/bin/Debug/net6.0/dotnetdemo.pdb
+/Users/srini/Documents/Projects/DockerAndKubernetes/Docker-Fundamentals-HandsOn/LabI - DotnetAppDockerDemo/dotnetdemo/obj/Debug/net6.0/dotnetdemo.csproj.AssemblyReference.cache
+/Users/srini/Documents/Projects/DockerAndKubernetes/Docker-Fundamentals-HandsOn/LabI - DotnetAppDockerDemo/dotnetdemo/obj/Debug/net6.0/dotnetdemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srini/Documents/Projects/DockerAndKubernetes/Docker-Fundamentals-HandsOn/LabI - DotnetAppDockerDemo/dotnetdemo/obj/Debug/net6.0/dotnetdemo.AssemblyInfoInputs.cache
+/Users/srini/Documents/Projects/DockerAndKubernetes/Docker-Fundamentals-HandsOn/LabI - DotnetAppDockerDemo/dotnetdemo/obj/Debug/net6.0/dotnetdemo.AssemblyInfo.cs
+/Users/srini/Documents/Projects/DockerAndKubernetes/Docker-Fundamentals-HandsOn/LabI - DotnetAppDockerDemo/dotnetdemo/obj/Debug/net6.0/dotnetdemo.csproj.CoreCompileInputs.cache
+/Users/srini/Documents/Projects/DockerAndKubernetes/Docker-Fundamentals-HandsOn/LabI - DotnetAppDockerDemo/dotnetdemo/obj/Debug/net6.0/dotnetdemo.dll
+/Users/srini/Documents/Projects/DockerAndKubernetes/Docker-Fundamentals-HandsOn/LabI - DotnetAppDockerDemo/dotnetdemo/obj/Debug/net6.0/refint/dotnetdemo.dll
+/Users/srini/Documents/Projects/DockerAndKubernetes/Docker-Fundamentals-HandsOn/LabI - DotnetAppDockerDemo/dotnetdemo/obj/Debug/net6.0/dotnetdemo.pdb
+/Users/srini/Documents/Projects/DockerAndKubernetes/Docker-Fundamentals-HandsOn/LabI - DotnetAppDockerDemo/dotnetdemo/obj/Debug/net6.0/dotnetdemo.genruntimeconfig.cache
+/Users/srini/Documents/Projects/DockerAndKubernetes/Docker-Fundamentals-HandsOn/LabI - DotnetAppDockerDemo/dotnetdemo/obj/Debug/net6.0/ref/dotnetdemo.dll
+/Users/srini/Documents/Projects/DockerAndKubernetes/Docker-Fundamentals-HandsOn/LabI-DotnetAppDockerDemo/dotnetdemo/bin/Debug/net6.0/dotnetdemo
+/Users/srini/Documents/Projects/DockerAndKubernetes/Docker-Fundamentals-HandsOn/LabI-DotnetAppDockerDemo/dotnetdemo/bin/Debug/net6.0/dotnetdemo.deps.json
+/Users/srini/Documents/Projects/DockerAndKubernetes/Docker-Fundamentals-HandsOn/LabI-DotnetAppDockerDemo/dotnetdemo/bin/Debug/net6.0/dotnetdemo.runtimeconfig.json
+/Users/srini/Documents/Projects/DockerAndKubernetes/Docker-Fundamentals-HandsOn/LabI-DotnetAppDockerDemo/dotnetdemo/bin/Debug/net6.0/dotnetdemo.dll
+/Users/srini/Documents/Projects/DockerAndKubernetes/Docker-Fundamentals-HandsOn/LabI-DotnetAppDockerDemo/dotnetdemo/bin/Debug/net6.0/dotnetdemo.pdb
+/Users/srini/Documents/Projects/DockerAndKubernetes/Docker-Fundamentals-HandsOn/LabI-DotnetAppDockerDemo/dotnetdemo/obj/Debug/net6.0/dotnetdemo.csproj.AssemblyReference.cache
+/Users/srini/Documents/Projects/DockerAndKubernetes/Docker-Fundamentals-HandsOn/LabI-DotnetAppDockerDemo/dotnetdemo/obj/Debug/net6.0/dotnetdemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srini/Documents/Projects/DockerAndKubernetes/Docker-Fundamentals-HandsOn/LabI-DotnetAppDockerDemo/dotnetdemo/obj/Debug/net6.0/dotnetdemo.AssemblyInfoInputs.cache
+/Users/srini/Documents/Projects/DockerAndKubernetes/Docker-Fundamentals-HandsOn/LabI-DotnetAppDockerDemo/dotnetdemo/obj/Debug/net6.0/dotnetdemo.AssemblyInfo.cs
+/Users/srini/Documents/Projects/DockerAndKubernetes/Docker-Fundamentals-HandsOn/LabI-DotnetAppDockerDemo/dotnetdemo/obj/Debug/net6.0/dotnetdemo.csproj.CoreCompileInputs.cache
+/Users/srini/Documents/Projects/DockerAndKubernetes/Docker-Fundamentals-HandsOn/LabI-DotnetAppDockerDemo/dotnetdemo/obj/Debug/net6.0/dotnetdemo.dll
+/Users/srini/Documents/Projects/DockerAndKubernetes/Docker-Fundamentals-HandsOn/LabI-DotnetAppDockerDemo/dotnetdemo/obj/Debug/net6.0/refint/dotnetdemo.dll
+/Users/srini/Documents/Projects/DockerAndKubernetes/Docker-Fundamentals-HandsOn/LabI-DotnetAppDockerDemo/dotnetdemo/obj/Debug/net6.0/dotnetdemo.pdb
+/Users/srini/Documents/Projects/DockerAndKubernetes/Docker-Fundamentals-HandsOn/LabI-DotnetAppDockerDemo/dotnetdemo/obj/Debug/net6.0/dotnetdemo.genruntimeconfig.cache
+/Users/srini/Documents/Projects/DockerAndKubernetes/Docker-Fundamentals-HandsOn/LabI-DotnetAppDockerDemo/dotnetdemo/obj/Debug/net6.0/ref/dotnetdemo.dll

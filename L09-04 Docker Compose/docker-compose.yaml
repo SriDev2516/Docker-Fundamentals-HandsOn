@@ -3,8 +3,10 @@ services:
     build: .
     command: python app.py
     ports:
-      - 5000:5000
+      - 5002:5000
+    container_name: python_fe2
   redis:
     image: "redis:alpine"
     ports:
       - 6379
+    container_name: redis_be2
